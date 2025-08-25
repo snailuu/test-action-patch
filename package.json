@@ -1,12 +1,15 @@
 {
   "name": "@snailuu/test-action-patch",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["action", "patch"],
+  "keywords": [
+    "action",
+    "patch"
+  ],
   "publishConfig": {
     "access": "public"
   },
