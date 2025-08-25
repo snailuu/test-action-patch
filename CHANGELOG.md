@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [v0.0.1] - 2025-08-25
+
+### 📝 Changes
+- Beta ([#5](https://github.com/snailuu/test-action-patch/pull/5))
+
+
 ## [v0.0.1-beta.0] - 2025-08-25
 
 ### 📝 Changes
@@ -16,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 🐛 Bug Fixes
 - Feat/publish2npm ([#3](https://github.com/snailuu/test-action-patch/pull/3))
+
 
 
 
